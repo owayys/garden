@@ -1,2 +1,2 @@
 > [!NOTE]
-> This repository is a clone of https://quartz.jzhao.xyz/ to use for my personal garden
+> This repository is a fork of https://quartz.jzhao.xyz/ to customize for my personal garden
